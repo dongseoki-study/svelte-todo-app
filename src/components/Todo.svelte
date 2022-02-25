@@ -1,5 +1,5 @@
 <script>
-    import { todos } from '~/store'
+    import { todos, saveStorage } from '~/store'
 
     export let todo;
     let title = ''
